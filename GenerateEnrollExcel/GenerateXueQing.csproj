@@ -68,6 +68,7 @@
     <Reference Include="MongoDB.Driver.Legacy">
       <HintPath>..\..\..\baks\学情分析\net45\MongoDB.Driver.Legacy.dll</HintPath>
     </Reference>
+    <Reference Include="MySql.Data, Version=6.10.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="NPOI">
       <HintPath>..\..\NOPI\Net40\NPOI.dll</HintPath>
     </Reference>
